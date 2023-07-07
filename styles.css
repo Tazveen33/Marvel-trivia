@@ -1,0 +1,95 @@
+body {
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background: linear-gradient(#0b090a, #660708);
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 0 0 1px black;
+}
+
+#logo {
+    width: 100%;
+	height: 200px;
+    border-radius: 2px;
+    border: 2px solid #660708;
+    margin-bottom: 10px;
+}
+
+#pp {
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+
+#ppp {
+    margin: 0;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#header {
+	padding-top: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.choice-section {
+    margin-top: 50px;
+}
+
+.A1 {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
+
+
+.A1-img {
+    margin: 20px auto;
+    max-width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("https://w0.peakpx.com/wallpaper/366/367/HD-wallpaper-avengers-logo-marvel.jpg");
+    background-size: cover;
+}
+
+#thor:hover {
+    background-image: url("https://media.giphy.com/media/8vnih78ZeNTu3BOCrn/giphy.gif");
+}
+
+#ironman:hover {
+    background-image: url("https://media.giphy.com/media/8xomIW1DRelmo/giphy.gif");
+}
+
+#hulk:hover {
+    background-image: url("https://media.giphy.com/media/hvdL7Xcmperfi/giphy.gif");
+}
+
+#captain:hover {
+    background-image: url("https://media.giphy.com/media/1lk1IcVgqPLkA/giphy.gif");
+}
+
+#blackwidow:hover {
+    background-image: url("https://media.giphy.com/media/VKFfxB2skRYZO/giphy.gif");
+	background-size: cover;
+}
+#thanos:hover {
+    background-image: url("https://media.giphy.com/media/iIFS20pNoCg1EEVodC/giphy.gif");
+	
+}
+#hawkeye:hover {
+    background-image: url("https://media.giphy.com/media/KAIHq4s57HAZO/giphy.gif");
+	
+}
+
+
+a {
+    color: white;
+}
